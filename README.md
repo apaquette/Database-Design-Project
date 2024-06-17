@@ -6,5 +6,6 @@ December 9th, 2021
 
 ### Authors
 [Alex Paquette](https://github.com/apaquette)
+
 Marc-Andre Gingras
 
